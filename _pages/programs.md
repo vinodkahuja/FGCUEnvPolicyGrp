@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: page
 title: Programs
@@ -17,3 +18,4 @@ permalink: /programs/
 - Master of Science in Computer Science
 - Master of Science in Information Systems
 - PhD in Computing and Technology
+```

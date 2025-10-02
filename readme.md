@@ -1,3 +1,4 @@
+```markdown
 # FGCU-Style Academic Website
 
 A Jekyll-based static website with FGCU styling for GitHub Pages.
@@ -65,3 +66,4 @@ Edit CSS variables in `assets/css/style.css`:
 
 For Jekyll documentation: https://jekyllrb.com/docs/
 For GitHub Pages: https://docs.github.com/en/pages
+```
