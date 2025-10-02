@@ -1,4 +1,3 @@
-```yaml
 # Navigation menu items
 main:
   - title: "Home"
@@ -11,4 +10,3 @@ main:
     url: /research/
   - title: "Contact"
     url: /contact/
-```

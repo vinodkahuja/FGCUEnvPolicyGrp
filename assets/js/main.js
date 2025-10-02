@@ -1,4 +1,3 @@
-```javascript
 // Mobile menu toggle
 document.addEventListener('DOMContentLoaded', function() {
   const menuToggle = document.querySelector('.menu-toggle');
@@ -28,4 +27,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-```

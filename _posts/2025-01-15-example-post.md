@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Welcome to Our New Website"
@@ -17,4 +16,3 @@ To create a new post:
 4. Commit and push to GitHub
 
 Your post will automatically appear on your site!
-```

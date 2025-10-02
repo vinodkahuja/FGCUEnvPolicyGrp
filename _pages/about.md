@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 title: About
@@ -16,4 +15,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## Our Team
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-```

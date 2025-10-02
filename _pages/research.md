@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 title: Research
@@ -19,4 +18,3 @@ Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ### Data Science
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-```

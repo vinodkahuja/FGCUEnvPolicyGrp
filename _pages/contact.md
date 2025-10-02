@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 title: Contact
@@ -20,4 +19,3 @@ info@fgcu.edu
 
 ## Office Hours
 Monday - Friday: 8:00 AM - 5:00 PM
-```
