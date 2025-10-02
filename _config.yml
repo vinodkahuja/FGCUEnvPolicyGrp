@@ -2,7 +2,7 @@
 title: "Florida Gulf Coast University"
 description: "Academic Excellence and Innovation"
 baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project sites
-url: "https://yourusername.github.io"
+url: "https://UdiOEagle.github.io"
 
 # Author/Organization
 author:
@@ -43,3 +43,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
+
