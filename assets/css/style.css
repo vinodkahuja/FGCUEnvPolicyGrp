@@ -1,0 +1,252 @@
+/* FGCU Colors and Base Styles */
+:root {
+  --fgcu-blue: #00396D;
+  --fgcu-green: #00B388;
+  --fgcu-light-blue: #0088CE;
+  --text-dark: #333333;
+  --text-light: #666666;
+  --background: #FFFFFF;
+  --gray-light: #F5F5F5;
+  --border-color: #E0E0E0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+  background-color: var(--background);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header Styles */
+.site-header {
+  background-color: var(--fgcu-blue);
+  color: white;
+  padding: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-branding a {
+  color: white;
+  text-decoration: none;
+}
+
+.site-branding h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* Navigation */
+.main-navigation {
+  position: relative;
+}
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.menu-toggle span {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  transition: 0.3s;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin: 0;
+}
+
+.nav-item a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 0;
+  transition: color 0.3s;
+  position: relative;
+}
+
+.nav-item a:hover,
+.nav-item.active a {
+  color: var(--fgcu-green);
+}
+
+.nav-item.active a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--fgcu-green);
+}
+
+/* Main Content */
+.main-content {
+  min-height: calc(100vh - 300px);
+  padding: 3rem 0;
+}
+
+.page-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid var(--fgcu-green);
+}
+
+.page-title {
+  font-size: 2.5rem;
+  color: var(--fgcu-blue);
+  margin-bottom: 0.5rem;
+}
+
+.page-content h1,
+.post-content h1 {
+  color: var(--fgcu-blue);
+  margin: 2rem 0 1rem;
+  font-size: 2rem;
+}
+
+.page-content h2,
+.post-content h2 {
+  color: var(--fgcu-blue);
+  margin: 1.5rem 0 1rem;
+  font-size: 1.5rem;
+}
+
+.page-content h3,
+.post-content h3 {
+  color: var(--fgcu-light-blue);
+  margin: 1.5rem 0 0.75rem;
+  font-size: 1.25rem;
+}
+
+.page-content p,
+.post-content p {
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+
+.page-content ul,
+.post-content ul {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.page-content li,
+.post-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Post Meta */
+.post-meta {
+  color: var(--text-light);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+.site-footer {
+  background-color: var(--fgcu-blue);
+  color: white;
+  padding: 3rem 0 1rem;
+  margin-top: 4rem;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-section h3 {
+  color: var(--fgcu-green);
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.footer-section ul {
+  list-style: none;
+}
+
+.footer-section li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-section a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-section a:hover {
+  color: var(--fgcu-green);
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: flex;
+  }
+  
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+  }
+  
+  .nav-menu.active {
+    display: flex;
+  }
+  
+  .header-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .main-navigation {
+    width: 100%;
+  }
+  
+  .page-title {
+    font-size: 2rem;
+  }
+  
+  .footer-content {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,45 @@
+# Site Settings
+title: "Florida Gulf Coast University"
+description: "Academic Excellence and Innovation"
+baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project sites
+url: "https://yourusername.github.io"
+
+# Author/Organization
+author:
+  name: "FGCU Department"
+  email: "contact@example.edu"
+  bio: "Academic department at Florida Gulf Coast University"
+
+# Build Settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/

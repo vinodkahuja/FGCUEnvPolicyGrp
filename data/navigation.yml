@@ -1,0 +1,12 @@
+# Navigation menu items
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Programs"
+    url: /programs/
+  - title: "Research"
+    url: /research/
+  - title: "Contact"
+    url: /contact/
