@@ -1,8 +1,13 @@
 # Site Settings
-title: "Florida Gulf Coast University"
-description: "Academic Excellence and Innovation"
-baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project sites
-url: "https://UdiOEagle.github.io"
+title: FGCU Environmental Policy Group
+description: Your site description
+url: "https://vinodkahuja.github.io"
+baseurl: "/FGCUEnvPolicyGrp"
+
+#title: "Florida Gulf Coast University"
+#description: "Academic Excellence and Innovation"
+#baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project sites
+#url: "https://UdiOEagle.github.io"
 
 # Author/Organization
 author:
@@ -43,4 +48,5 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
+
 
