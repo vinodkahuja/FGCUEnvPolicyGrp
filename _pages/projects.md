@@ -9,65 +9,22 @@ permalink: /projects/
 Explore our current and completed research projects.
 
 ## Current Projects
+1.	The Impact of Electronic Vouchers on Climate Smart Agriculture (CSA) and Food Security in Sierra Leone.
+2.	Climate Evidence Gap Mapping (EGM) for the CSA in climate policy in the low- and middle-income countries. 
+3.	Lake Okeechobee project
+4.	Decade of Action Project
+5.	Liberia Forest Policy Project
+6.	Malawi CSA analysis
 
-### AI-Powered Healthcare Diagnostics
-**Principal Investigator:** Dr. Jane Smith  
-**Duration:** 2024-2026  
-**Funding:** NSF Grant #1234567
+## Proposed benefits and desired outputs
+This project will enhance vertical collaboration between faculty across the Water School and Whitaker College of Engineering at FGCU, and other departments elsewhere to undertake environmental sustainability and ecological impact assessment and research in southwest Florida and elsewhere. Specifically, we seek to achieve the following specific outputs: 
+-	Enhanced collaboration between FGCU faculty, postdocs, and graduate and undergraduate students in impact assessment research on sustainability outcomes, such as forest sector participation.
+-	Joint supervision of graduate and undergraduate students.
 
-Developing machine learning models to assist in early disease detection using medical imaging data. This project aims to improve diagnostic accuracy and reduce healthcare costs.
+## Anticipated outcomes
+-	Research articles on environmental impact data on forest-related outcomes across African countries (like Liberia, Malawi, and Uganda) and Asian countries like Bhutan.
+-	Drafts of manuscripts on environmental social sciences and ecological impact assessments using Living Standards Measurement Surveys and in-country datasets from sub-Saharan Africa, Southeast Asia, and Central America.
+-	An up-to-date website that demonstrates comparative results of environmental impact outcomes across diverse contexts.  
 
-**Team Members:** Dr. Smith, Alex Johnson, 3 undergraduate researchers
-
----
-
-### Cybersecurity in IoT Devices
-**Principal Investigator:** Dr. John Doe  
-**Duration:** 2024-2025  
-**Funding:** DHS Research Grant
-
-Investigating vulnerabilities in Internet of Things devices and developing robust security protocols to protect smart home systems from cyber attacks.
-
-**Team Members:** Dr. Doe, Michael Brown, 2 graduate students
-
----
-
-### Smart City Data Analytics Platform
-**Principal Investigator:** Dr. Maria Garcia  
-**Duration:** 2023-2025  
-**Funding:** City of Fort Myers Partnership
-
-Building a comprehensive data analytics platform to optimize city services, traffic management, and resource allocation using real-time data from sensors across the city.
-
-**Team Members:** Dr. Garcia, Sarah Williams, 4 undergraduate researchers
-
----
-
-## Completed Projects
-
-### Blockchain-Based Voting System
-**Completed:** 2023  
-**Principal Investigator:** Dr. Jane Smith
-
-Developed a secure, transparent electronic voting system using blockchain technology. Successfully piloted in campus elections.
-
-### Mobile App for Environmental Monitoring
-**Completed:** 2023  
-**Principal Investigator:** Dr. Maria Garcia
-
-Created a citizen science mobile application for tracking local environmental conditions and wildlife observations.
-
----
-
-## Student Projects
-
-### Senior Design Projects (2024-2025)
-
-- **Virtual Reality Campus Tour** - Creating immersive VR experience for prospective students
-- **AI Study Companion** - Intelligent tutoring system for STEM courses
-- **Campus Sustainability Tracker** - Mobile app for tracking carbon footprint
-- **Automated Parking System** - Smart parking solution using computer vision
-
-### Capstone Projects
-
-Browse our archive of outstanding capstone projects from previous years, showcasing innovative solutions developed by our students.
+## Existing capacities and strengths
+The team has extensive research experience and a passion for capacity building in low- and middle-income countries across diverse regions of sub-Saharan Africa, Southeast Asia, and Central America. We have collaborated on several prior and ongoing projects at different spatial scales in different capacities. Therefore, the formation of the PIE-Research Group serves to build on such previous and ongoing collaborations to enhance mutual research productivity. 
