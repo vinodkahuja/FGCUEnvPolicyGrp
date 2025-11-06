@@ -25,15 +25,16 @@ The group utilizes primary and secondary survey datasets to explore possibilitie
 
 ## Quick Links
 
-  - [Meet Our Team](/people/) - Learn about our faculty, students, and staff
-  - [Explore Projects](/projects/) - Discover our current research initiatives
-  - [Upcoming Events](/events/) - Join us for seminars and workshops
-  - [Read Publications](/publications/) - Browse our latest research papers
+  - [Meet Our Team](/FGCUEnvPolicyGrp/people/) - Learn about our faculty, students, and staff
+  - [Explore Projects](/FGCUEnvPolicyGrp/projects/) - Discover our current research initiatives
+  - [Upcoming Events](/FGCUEnvPolicyGrp/events/) - Join us for seminars and workshops
+  - [Read Publications](/FGCUEnvPolicyGrp/publications/) - Browse our latest research papers
 
 
 ## Get Involved
 
 
 Whether you're a prospective student, industry partner, or community member, we invite you to connect with us and explore opportunities for collaboration.
+
 
 
