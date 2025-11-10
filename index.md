@@ -6,7 +6,7 @@ title: Home
 # This site is under construction
 # Welcome to Florida Gulf Coast University
 
-Our department is at the forefront of innovation in computing, data science, and technology research. We bring together talented faculty, dedicated students, and cutting-edge research to solve real-world problems.
+Our research group is at the forefront of innovation in computing, data science, and technology research. We bring together talented faculty, dedicated students, and cutting-edge research to solve real-world problems.
 
 ## What We Do
 
@@ -35,6 +35,7 @@ The group utilizes primary and secondary survey datasets to explore possibilitie
 
 
 Whether you're a prospective student, industry partner, or community member, we invite you to connect with us and explore opportunities for collaboration.
+
 
 
 
